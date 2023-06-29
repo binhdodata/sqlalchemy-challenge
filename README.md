@@ -1,5 +1,8 @@
 SQLAlchemy Climate Analysis
-Welcome to the SQLAlchemy Climate Analysis project! This project aims to provide a climate analysis and exploration of the Honolulu, Hawaii area. The analysis is performed using Python, SQLAlchemy ORM queries, Pandas, and Matplotlib. The project includes an interactive Flask API for accessing the climate data.
+
+Welcome to the SQLAlchemy Climate Analysis project! This project aims to provide a climate analysis and exploration of the Honolulu, Hawaii area. 
+
+The analysis is performed using Python, SQLAlchemy ORM queries, Pandas, and Matplotlib. The project includes an interactive Flask API for accessing the climate data.
 
 Project Structure
 The project consists of the following main components:
